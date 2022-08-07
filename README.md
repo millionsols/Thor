@@ -18,7 +18,7 @@ In addition, Thor offers an API and a set of plugins to integrate trading softwa
 
 For now: extract the zip-folder to your computer and run Thor.
 
-In order to use auto-trading and/or auto-sniper, please do the following:
+In order to use auto-trading (mango markets) and/or auto-sniper (magiceden), please do the following:
 
 1. Create BURNER wallet
 2. Import private key
