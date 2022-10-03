@@ -31,7 +31,7 @@ Please note that private key will be encrypted stored on your local computer in 
 
 For now: extract the zip-folder to your previous Thor installation and overwrite existing files except the data-directory!
 
-The data folder contains for example your encrypted private keys to your configured burner wallets!
+The data folder contains for example your encrypted private keys to your configured burner wallets and the Solana NFT Sniper bot config!
 
 # Gettin access
 
@@ -52,3 +52,6 @@ https://discord.gg/cyberfrogs
 
 SolNet - Solana's .NET SDK and integration library.
 https://github.com/bmresearch/Solnet
+
+Blockworks Foundation - MangoMarkets.
+https://github.com/blockworks-foundation
