@@ -1,3 +1,14 @@
+# Update 0.85b
+
++Deactivated MangoMarkets V3 support
+
++Added SPL-Token support ($kira, $usdc)
+
++Added ByBit API (readonly / Unified Margin)
+
++Minor Bugfixes and RPC improvements
+
+
 # Update 0.83b 
 
 +Signals: Overview by timeframe
