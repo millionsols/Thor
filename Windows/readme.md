@@ -1,3 +1,7 @@
+# Update 0.86b
+
++Fixed problem with Auto-sell (re-list) option
+
 # Update 0.85b
 
 +Deactivated MangoMarkets V3 support
